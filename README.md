@@ -19,6 +19,7 @@ El objetivo de este trabajo es mostrar formas de hibridación modernas a través
 Para ello utilizaré dos casos de estudio. El primero poetic@, que es un proyecto de poesía que se presenta de una forma particular al usuario. El segundo caso de estudio es el trabajo en processing de una artista visual, Alba G. Corral y en concreto con una de sus obras.
 
 ## Re-descubriendo la hibridacion: Caso 1
+[Web poetica](https://poetica.gal/es/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

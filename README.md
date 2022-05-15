@@ -20,7 +20,6 @@ Antes de comenzar es importante entender la diferencia entre un caso de hibridac
 ![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
 
 URL Poetic@:  <https://poetica.gal/es>.
-
 Contenido: Poemario visual interactivo.
 Año: 2013
 
@@ -36,7 +35,6 @@ Me gusta especialmente una frase que usa Manovich en la que propone usar la web 
 ![Love Lost](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/cee7fa56ac72abb756d1b7204d537980a64b7b89/lovelost.jpg) 
 
 URL Poetic@:  https://lovelost.jam3.com/
-
 Contenido: Poema interactivo que reflexiona sobre la pérdida de un ser querido
 Año: Febrero 2018
 

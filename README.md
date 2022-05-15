@@ -18,8 +18,10 @@ Antes de comenzar es importante entender la diferencia entre un caso de hibridac
 
 ## Re-descubriendo la hibridacion: Caso 1
 ![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
-URL Poetic@:  <https://poetica.gal/es>
-Contenido: Poemario visual interactivo
+
+URL Poetic@:  <https://poetica.gal/es>.
+
+Contenido: Poemario visual interactivo.
 Año: 2013
 
 En primer lugar Fran Alonso, el poeta, genera una remediación de un libro que trasciende a la simple copia de un libro, la amplia en el sentido que la interfaz y el metamedio hace que suceden situaciones e interacciones impensables en el formato libro. Por otro lado el poemario es una fusión de todos los elementos que lo componen, vídeos, toolips explicativos, audios. Es decir el poema no es la suma de estos elementos sino es una nueva especie, usando la metáfora que usa el propio Manovich (Manovich 2013, p.114), que cobra sentido por su construcción, por el orden y elección de los elementos que lo conforman y también por la fusión de diferentes lenguajes.
@@ -34,7 +36,8 @@ Me gusta especialmente una frase que usa Manovich en la que propone usar la web 
 ![Love Lost](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/cee7fa56ac72abb756d1b7204d537980a64b7b89/lovelost.jpg) 
 
 URL Poetic@:  https://lovelost.jam3.com/
-Conteido: Poema interactivo que reflexiona sobre la pérdida de un ser querido
+
+Contenido: Poema interactivo que reflexiona sobre la pérdida de un ser querido
 Año: Febrero 2018
 
 En este caso vemos un caso de hibridación mucho más complejo que el anterior pero también más reciente en el tiempo, febrero del 2018.

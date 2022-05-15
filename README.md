@@ -56,8 +56,4 @@ En cambio en la obra de Poetic@ podemos ver ese puente entre la multimedia y la 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
 ----
-
-

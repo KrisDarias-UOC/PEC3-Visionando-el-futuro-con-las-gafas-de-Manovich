@@ -9,21 +9,13 @@ Autor: Kris Darias
 
 Fecha: 15 de mayo del 2022 
 
-![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
-
-![Love Lost](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
-
-
-
-
 ## Planteamiento
-
-
 El objetivo de este trabajo es mostrar formas de hibridación modernas a través de la mirada de Manovich y su conceptualización sobre términos como la hibridación, remediación, amplificación, metamedio computacional y metalengua.
 
 Para ello utilizaré dos casos de estudio. El primero **Poetic@**, que es un proyecto de poesía, un poemario, realizado por Fran Alonso, que se presenta de una forma particular al usuario desarrollado en el 2013. El segundo caso de estudio es otro proyecto de poesía, **Love lost**, desarrollado por [Jam3 (111 FWAs)](https://thefwa.com/profiles/jam3)
 
 ## Re-descubriendo la hibridacion: Caso 1
+![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
 URL Poetic@:  <https://poetica.gal/es>
 Contenido: Poemario visual interactivo
 Año: 2013
@@ -39,6 +31,8 @@ La poesía visual ya ha sido llevada a cabo por autores como Joan Brossa. Brosa,
 Me gusta especialmente una frase que usa Manovich en la que propone usar la web como una plataforma de metalenguaje, e_n donde muchos lenguajes culturales del periodo moderno vienen y crean nuevos híbridos_ (Manovich, 2013 p. 214). Aquí se entiende metalenguaje como _reunión-inclusión-colección_ (Manovich, 2013 p. 238) de diferentes lenguajes culturales, por ejemplo el uso de tecnologías de programación orientadas a objetos usadas para crear animaciones en web y el uso de lenguaje semántico para la escritura html en la web..
 
 ## Re-descubriendo la hibridacion: Caso 2
+
+![Love Lost](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/cee7fa56ac72abb756d1b7204d537980a64b7b89/lovelost.jpg) 
 
 URL Poetic@:  https://lovelost.jam3.com/
 Conteido: Poema interactivo que reflexiona sobre la pérdida de un ser querido

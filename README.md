@@ -17,9 +17,10 @@ Fecha: 15 de mayo del 2022
 
 El objetivo de este trabajo es mostrar formas de hibridación modernas a través de la mirada de Manovich y su conceptualización sobre términos como la hibridación, remediación, amplificación, metamedio computacional y metalengua. 
 Para ello utilizaré dos casos de estudio. El primero poetic@, que es un proyecto de poesía que se presenta de una forma particular al usuario. El segundo caso de estudio es el trabajo en processing de una artista visual, Alba G. Corral y en concreto con una de sus obras.
+Antes de comenzar es importante entender la diferencia entre un caso de hibridación y otro de multimedia. La hibridación según Manovich vendría a ser la *mezcla*
 
 ## Re-descubriendo la hibridacion: Caso 1
-[Web poetica](https://poetica.gal/es/)
+Web poetica <https://poetica.gal/es/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

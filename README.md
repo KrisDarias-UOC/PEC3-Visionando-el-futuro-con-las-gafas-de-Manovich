@@ -8,7 +8,7 @@ Autor: Kris Darias
 
 Fecha: 
 
-![Cultura Digital](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/main/Captura%20de%20pantalla%202022-05-15%20a%20las%2012.27.12.png?raw=true) 
+![Cultura Digital](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/main/Captura%20de%20pantalla%202022-05-15%20a%20las%2012.27.12.png?raw=true = 200) 
 
 
 

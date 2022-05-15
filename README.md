@@ -6,7 +6,7 @@
 Autor: Kris Darias 
 
 
-Fecha: 
+Fecha: 15 de mayo del 2022 
 
 ![Cultura Digital](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
 
@@ -15,7 +15,8 @@ Fecha:
 ## Planteamiento
 
 
-El objetivo de este trabajo es mostrar formas de hibridación modernas a través de la mirada de Manovich y su conceptualización sobre términos como la hibridación, remediación, amplificación, metamedio computacional y metalengua
+El objetivo de este trabajo es mostrar formas de hibridación modernas a través de la mirada de Manovich y su conceptualización sobre términos como la hibridación, remediación, amplificación, metamedio computacional y metalengua. 
+Para ello utilizaré dos casos de estudio. El primero poetic@, que es un proyecto de poesía que se presenta de una forma particular al usuario. El segundo caso de estudio es el trabajo en processing de una artista visual, Alba G. Corral y en concreto con una de sus obras.
 
 ## Re-descubriendo la hibridacion: Caso 1
 

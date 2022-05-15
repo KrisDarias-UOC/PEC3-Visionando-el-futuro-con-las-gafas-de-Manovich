@@ -14,7 +14,7 @@ El objetivo de este trabajo es mostrar formas de hibridación modernas a través
 
 Para ello utilizaré dos casos de estudio. El primero **Poetic@**, que es un proyecto de poesía, un poemario, realizado por Fran Alonso, que se presenta de una forma particular al usuario desarrollado en el 2013. El segundo caso de estudio es otro proyecto de poesía, **Love lost**, desarrollado por [Jam3 (111 FWAs)](https://thefwa.com/profiles/jam3)
 
-Antes de comenzar es importante entender la diferencia entre un caso de hibridación y otro de multimedia. La hibridación según Manovich vendría a ser, no una simple suma de diferentes medios (reproductores de audio, reproductores de vídeo, textos, imágenes…) colocadas unas debajo de otras sino una mezcla profunda entre ellas. En mi opinión Poetic@ es un puente entre la multimedia y la hibridación teniendo en cuenta que la web se desarrolló aproximadamente en el 2013 y Love Lost es un caso inmerso totalmente en la hibridación. En el análisis de ambos casos demostraré mi hipótesis.
+Antes de comenzar es importante entender la diferencia entre un caso de hibridación y otro de multimedia. La hibridación según Manovich vendría a ser, no una simple suma de diferentes medios (reproductores de audio, reproductores de vídeo, textos, imágenes…) colocadas unas debajo de otras sino una mezcla profunda entre ellas (Manovich, 2013 p.132). En mi opinión **Poetic@** es un puente entre la multimedia y la hibridación teniendo en cuenta que la web se desarrolló aproximadamente en el 2013 y **Love Lost** es un caso inmerso totalmente en la hibridación. En el análisis de ambos casos demostraré mi hipótesis.
 
 ## Re-descubriendo la hibridacion: Caso 1
 ![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) 
@@ -41,7 +41,7 @@ En este caso vemos un caso de hibridación mucho más complejo que el anterior p
 
 En primer lugar las interfaces de los diferentes medios se combinan y fusionan  de una manera mucho más clara. Por ejemplo el texto está integrado en la imagen de una forma mucho más orgánica compartiendo el medio y el poema se va conformando a través de la imagen y fragmentos del poema que van apareciendo en la misma interface. Mientras y durante, el sonido llena de una forma hipnótica la pantalla. Lo acompaña la imagen y la interacción del usuario con el  corazón que al pulsarlo varios segundos simula su bombeo y para finalmente cambiar de pantalla como un hiperenlace.
 
-En segundo lugar y no separado de lo anterior, nos encontramos con unas nuevas formas de navegar por la interfaz, de interaccionar con el medio y/o las estructuras de datos. Cuando clicas en el corazón, una imagen vectorial va cambiando de color y forma aparece una luz que se mueve con el cursor y comienza un bombeo del corazón que finalmente nos lleva a otra pantalla con el mismo universo estético. De esta manera se recorren las diferentes pantallas que coinciden con las letras de **heart**. Así se llega a la t que sería el final del viaje.
+En segundo lugar y no separado de lo anterior, nos encontramos con unas nuevas formas de navegar por la interfaz, de interaccionar con el medio y/o las estructuras de datos. Cuando clicas en el corazón, una imagen vectorial va cambiando de color y forma aparece una luz que se mueve con el cursor y comienza un bombeo del corazón que finalmente nos lleva a otra pantalla con el mismo universo estético. De esta manera se recorren las diferentes pantallas que coinciden con las letras de **heart**. Así se llega a la *T* que sería el final del viaje.
 
 En esta pieza poética encontramos una remezcla profunda, no solo de diferentes medios (audio, cine, escritura, animación, etc.) sino también de su forma de representarlas y en sus interfaces.
 
@@ -51,9 +51,13 @@ En esta pieza hay una ampliación de medios y lenguajes, creándose algo nuevo, 
 
 En conclusión, si comparamos ambas obras se ve claramente que en esta última la percepción es menos fragmentada que en la primera. La experiencia de la obra en _Lovelost_ es una experiencia totalmente nueva, que no parte de la remediación del libro, quizás su lugar de inicio es el cine en donde se construye un relato con un lenguaje claramente cinematográfico en su forma (introducción, desarrollo, nudo y desenlace) y en su técnica, usando zoom, movimientos, rotaciones, cambios de orientación de cámara, efectos de iluminación. Todo ello se mezcla con elementos tipográficos y sonidos que se activan tras interaccionar con la interface, con la imagen. Es una experiencia mucho más inmersiva y que responde de una forma mucho más clara al concepto propuesto por Manovich de hibridación.
 En cambio en la obra de Poetic@ podemos ver ese puente entre la multimedia y la hibridación que comentaba al inicio de la propuesta. Personalmente este puente que hace visible los dos mundos me parece realmente interesante porque permite un deambular por el objeto remediado y un esfuerzo por responder a un metamedio computacional que abarca nuestra mirada del mundo. Poetic@ es una reflexión (tanto en su contenido como en su boceto tecnológico) al título del propio Manovich, *El software tome el mando*
-###Citas###
+### Citas 
 [1] 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
 ----
+
+

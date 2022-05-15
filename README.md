@@ -17,9 +17,10 @@ Para ello utilizaré dos casos de estudio. El primero **Poetic@**, que es un pro
 Antes de comenzar es importante entender la diferencia entre un caso de hibridación y otro de multimedia. La hibridación según Manovich vendría a ser, no una simple suma de diferentes medios (reproductores de audio, reproductores de vídeo, textos, imágenes…) colocadas unas debajo de otras sino una mezcla profunda entre ellas (Manovich, 2013 p.132). En mi opinión **Poetic@** es un puente entre la multimedia y la hibridación teniendo en cuenta que la web se desarrolló aproximadamente en el 2013 y **Love Lost** es un caso inmerso totalmente en la hibridación. En el análisis de ambos casos demostraré mi hipótesis.
 
 ## Re-descubriendo la hibridacion: Caso 1
-![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg) `enter code here`
+![Poetic@](https://github.com/KrisDarias-UOC/PEC3-Visionando-el-futuro-con-las-gafas-de-Manovich/blob/397710db757370ec191882a8bb95afdf4031da14/poetica.jpg)
 
-URL Poetic@:  <https://poetica.gal/es>.`enter code here`
+URL Poetic@:  <https://poetica.gal/es>.
+
 Contenido: Poemario visual interactivo.
 Año: 2013
 
